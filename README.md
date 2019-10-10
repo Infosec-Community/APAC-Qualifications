@@ -7,19 +7,18 @@ Note: This list is in development
 ### Universities
 #### RMIT
 ##### Postgraduate
-
+[Graduate Certificate in Information Management](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/graduate-certificates/graduate-certificate-in-information-management-gc098)
+[Master of Cyber Security](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-cyber-security-mc159)
 
 
 ## Western Australia
 ### Universities
 #### Curtin University
 ##### Undergraduate
-[Graduate Certificate in Information Management](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/graduate-certificates/graduate-certificate-in-information-management-gc098)
-[Master of Cyber Security](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-cyber-security-mc159)
+[Cyber Security Major (B Comp)](https://study.curtin.edu.au/offering/course-ug-cyber-security-major-b-comp--mjru-cybsev1/)
 
 ##### Postgraduate
 [Graduate Diploma in Cyber Security](https://study.curtin.edu.au/offering/course-pg-graduate-diploma-in-cyber-security--gd-cybsecv1/)
-
 
 #### Edith Cowan University (ECU)
 ##### Undergraduate
