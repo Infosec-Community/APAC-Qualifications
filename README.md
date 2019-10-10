@@ -3,11 +3,19 @@ A list of cyber-security higher education qualifications available in Australia.
 
 Note: This list is in development
 
+## Victoria
+### Universities
+#### RMIT
+##### Postgraduate
+
+
+
 ## Western Australia
 ### Universities
 #### Curtin University
 ##### Undergraduate
-[Cyber Security Major (B Comp)](https://study.curtin.edu.au/offering/course-ug-cyber-security-major-b-comp--mjru-cybsev1/)
+[Graduate Certificate in Information Management](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/graduate-certificates/graduate-certificate-in-information-management-gc098)
+[Master of Cyber Security](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-cyber-security-mc159)
 
 ##### Postgraduate
 [Graduate Diploma in Cyber Security](https://study.curtin.edu.au/offering/course-pg-graduate-diploma-in-cyber-security--gd-cybsecv1/)
