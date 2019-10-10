@@ -8,6 +8,7 @@ Note: This list is in development
 #### RMIT
 ##### Postgraduate
 [Graduate Certificate in Information Management](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/graduate-certificates/graduate-certificate-in-information-management-gc098)
+
 [Master of Cyber Security](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-cyber-security-mc159)
 
 
