@@ -15,7 +15,7 @@ Note: This list is in development
 
 ### TAFE
 #### Canberra Institute of Technology
-##### Certificate
+##### Certificates
 [Certificate IV in Cyber Security 22334VIC](https://cit.edu.au/courses/professional/cyber/C4-BD30)
 
 [Graduate Certificate in Networking and Cyber Security 10198NAT](https://cit.edu.au/courses/professional/cyber/GC-BD17)
@@ -30,6 +30,13 @@ Note: This list is in development
 [Master of Information Technology (Cyber Security)](https://www.cdu.edu.au/study/master-information-technology-cyber-security-sitcs1-2020)
 [Graduate Certificate of Information Technology (Cyber Security)](https://www.cdu.edu.au/study/graduate-certificate-information-technology-cyber-security-uitcs1-2020)
 
+## Victoria
+### Universities
+#### RMIT
+##### Postgraduate
+[Graduate Certificate in Information Management](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/graduate-certificates/graduate-certificate-in-information-management-gc098)
+
+[Master of Cyber Security](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-cyber-security-mc159)
 
 ## Western Australia (WA)
 ### Universities
@@ -39,7 +46,6 @@ Note: This list is in development
 
 ##### Postgraduate
 [Graduate Diploma in Cyber Security](https://study.curtin.edu.au/offering/course-pg-graduate-diploma-in-cyber-security--gd-cybsecv1/)
-
 
 #### Edith Cowan University (ECU)
 ##### Undergraduate
@@ -71,15 +77,12 @@ Note: This list is in development
 ### TAFE
 #### North Metropolitan TAFE
 ##### Certificates
-
 [Certificate IV in Cyber Security](https://www.northmetrotafe.wa.edu.au/courses/certificate-iv-cyber-security)
 
 ##### Diplomas
-
 [Advanced Diploma of Network Security (Cyber Security)](https://www.northmetrotafe.wa.edu.au/courses/advanced-diploma-network-security-cyber-security)
 
 #### South Metropolitan TAFE
-
 ##### Certificates
 [Certificate IV in Cyber Security](https://www.southmetrotafe.wa.edu.au/courses/certificate-iv-cyber-security)
 
