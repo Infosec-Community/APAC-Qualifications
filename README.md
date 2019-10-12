@@ -38,6 +38,15 @@ Note: This list is in development
 
 [Master of Cyber Security](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-cyber-security-mc159)
 
+#### Deakin
+##### Postgraduate
+
+
+##### Undergraduate
+[Bachelor of Cyber Security](https://www.deakin.edu.au/course/bachelor-cyber-security)
+[Bachelor of Criminology/Bachelor of Cyber Security](https://www.deakin.edu.au/course/bachelor-criminology-bachelor-cyber-security)
+[Bachelor of Laws/Bachelor of Cyber Security](https://www.deakin.edu.au/course/bachelor-laws-bachelor-cyber-security)
+
 ## Western Australia (WA)
 ### Universities
 #### Curtin University
