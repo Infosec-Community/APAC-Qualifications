@@ -40,12 +40,21 @@ Note: This list is in development
 
 #### Deakin
 ##### Postgraduate
+[Graduate Certificate of Cyber Law](https://www.deakin.edu.au/course/graduate-certificate-cyber-law)
 
+[Graduate Certificate of Cyber Security](https://www.deakin.edu.au/course/graduate-certificate-cyber-security)
+
+[Master of Cyber Security](https://www.deakin.edu.au/course/master-cyber-security)
+
+[Master of Cyber Security (Professional)](https://www.deakin.edu.au/course/master-cyber-security-professional)
 
 ##### Undergraduate
 [Bachelor of Cyber Security](https://www.deakin.edu.au/course/bachelor-cyber-security)
+
 [Bachelor of Criminology/Bachelor of Cyber Security](https://www.deakin.edu.au/course/bachelor-criminology-bachelor-cyber-security)
+
 [Bachelor of Laws/Bachelor of Cyber Security](https://www.deakin.edu.au/course/bachelor-laws-bachelor-cyber-security)
+
 
 ## Western Australia (WA)
 ### Universities
