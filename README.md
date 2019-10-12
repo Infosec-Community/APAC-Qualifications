@@ -32,12 +32,6 @@ Note: This list is in development
 
 ## Victoria
 ### Universities
-#### RMIT
-##### Postgraduate
-[Graduate Certificate in Information Management](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/graduate-certificates/graduate-certificate-in-information-management-gc098)
-
-[Master of Cyber Security](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-cyber-security-mc159)
-
 #### Deakin
 ##### Postgraduate
 [Graduate Certificate of Cyber Law](https://www.deakin.edu.au/course/graduate-certificate-cyber-law)
@@ -55,6 +49,51 @@ Note: This list is in development
 
 [Bachelor of Laws/Bachelor of Cyber Security](https://www.deakin.edu.au/course/bachelor-laws-bachelor-cyber-security)
 
+#### La Trobe University
+##### Undergraduate
+[Bachelor of Cybersecurity](https://www.latrobe.edu.au/courses/bachelor-of-cybersecurity)
+
+##### Postgraduate
+[Master of Cybersecurity (Computer Science)](https://www.latrobe.edu.au/courses/master-of-cybersecurity-computer-science)
+
+[Master of Cybersecurity (Business Operations)](https://www.latrobe.edu.au/courses/master-of-cybersecurity-business-operations)
+
+#### Monash
+##### Undergraduate
+[Bachelor of Information Technology (Cybersecurity Major)](https://www.monash.edu/study/courses/majors-minors-specialisations/2020/majors/cybersecurity-xm0068)
+
+##### Postgraduate
+[Cybersecurity Expert master degree](https://www.monash.edu/study/courses/find-a-course/2020/cybersecurity-c6002?domestic=true)
+
+#### Royal Melbourne Institute of Technology (RMIT)
+##### Postgraduate
+[Graduate Certificate in Information Management](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/graduate-certificates/graduate-certificate-in-information-management-gc098)
+
+[Master of Cyber Security](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-cyber-security-mc159)
+
+#### Swineburne University of Technology
+##### Certificates
+[Certificate IV in Cyber Security](https://www.swinburne.edu.au/study/course/Certificate-IV-in-Cyber-Security-22334VIC/local)
+
+##### Postgraduate
+[Graduate Certificate of Cybersecurity Management - Online Delivery](https://www.swinburne.edu.au/study/course/Graduate-Certificate-of-Cybersecurity-Management-%5BOnline-Delivery%5D-GC-CYMGTS/local)
+
+[Graduate Certificate of Cybersecurity](https://www.swinburne.edu.au/study/course/Graduate-Certificate-of-Cybersecurity-GC-CYBSEC/local)
+
+[Master of Cybersecurity](https://www.swinburne.edu.au/study/course/Master-of-Cybersecurity-MA-CYBSEC/local)
+
+[Master of Cybersecurity Management - Online Delivery](https://www.swinburne.edu.au/study/course/Master-of-Cybersecurity-Management-%5BOnline-delivery%5D-MA-CYMGTS/local)
+
+#### Victoria University
+##### Certificates
+[Certificate IV in Cyber Security (Offered by VU Polytechnic)](https://www.vu.edu.au/courses/certificate-iv-in-cyber-security-22334vic)
+
+##### Short Courses
+[Introduction to Cyber Security for the Home User (Offered by VU Polytechnic)](https://www.vu.edu.au/courses/introduction-to-cyber-security-for-the-home-user-thaai)
+
+##### Postgraduate
+[Graduate Certificate in Cyber Security](https://www.vu.edu.au/courses/graduate-certificate-in-cyber-security-ntcs)
+
 
 ## Western Australia (WA)
 ### Universities
@@ -64,6 +103,7 @@ Note: This list is in development
 
 ##### Postgraduate
 [Graduate Diploma in Cyber Security](https://study.curtin.edu.au/offering/course-pg-graduate-diploma-in-cyber-security--gd-cybsecv1/)
+
 
 #### Edith Cowan University (ECU)
 ##### Undergraduate
