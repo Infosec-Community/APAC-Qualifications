@@ -28,7 +28,31 @@ Note: This list is in development
 #### Charles Darwin University
 ##### Postgraduate
 [Master of Information Technology (Cyber Security)](https://www.cdu.edu.au/study/master-information-technology-cyber-security-sitcs1-2020)
+
 [Graduate Certificate of Information Technology (Cyber Security)](https://www.cdu.edu.au/study/graduate-certificate-information-technology-cyber-security-uitcs1-2020)
+
+## South Australia (SA)
+### Universities
+#### Flinders University
+[Master of Information Technology (Network and Cybersecurity Systems)](https://www.flinders.edu.au/study/courses/postgraduate-information-technology-network-cybersecurity-systems)
+
+#### University of Adelaide
+##### Postgraduate
+[Graduate Certificate in Cyber Security (Management)](https://www.adelaide.edu.au/degree-finder/2020/gccs_gccsmgt.html)
+
+[Graduate Certificate in Cyber Security (Secure Software)](https://www.adelaide.edu.au/degree-finder/2020/gccss_gccsss.html)
+
+[Graduate Diploma in Cyber Security](https://www.adelaide.edu.au/degree-finder/2020/gdcs_gdcybsec.html)
+
+[Master of Cyber Security](https://www.adelaide.edu.au/degree-finder/2020/mcs_mcybsec.html)
+
+#### University of South Australia
+##### Undergraduate
+[Bachelor of Information Technology (Networking and Cybersecurity)](https://study.unisa.edu.au/degrees/bachelor-of-information-technology-networking-and-cybersecurity)
+
+##### Postgraduate
+[Master of Cybersecurity](https://study.unisa.edu.au/degrees/master-of-cybersecurity)
+
 
 ## Victoria
 ### Universities
